@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlTest01>
+	<!-- 선언부와 루트 엘리먼트만 존재하는 XML 문서 작성 -->
+	<!-- 루트 엘리먼트(『xmlTest01』)도 사용자 결정 -->
+</xmlTest01>

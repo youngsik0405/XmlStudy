@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memberList>
+	<!-- 루트 엘리먼트는 하나 -->
+	<!-- 루트 엘리먼트의 이름은 『~~~.xml』 파일 이름과 동일한 이름 사용 -->
+	<!-- 스스로 (본인)의 정보를 표현할 수 있는 문서 작성 -->
+	<!-- + 우리 팀원들 -->
+	<member>
+		<name>윤영식</name>
+		<age>34</age>
+		<city>인천</city>
+		<tel>010-9565-6512</tel>
+	</member>
+	<member>
+		<name>김믿음</name>
+		<age>26</age>
+		<city>서울</city>
+		<tel>010-1111-1111</tel>
+	</member>
+	<member>
+		<name>박제훈</name>
+		<age>25</age>
+		<city>경기</city>
+		<tel>010-2222-2222</tel>
+	</member>
+	<member>
+		<name>이은솔</name>
+		<age>30</age>
+		<city>제주</city>
+		<tel>010-3333-3333</tel>
+	</member>
+	<member>
+		<name>곽유진</name>
+		<age>25</age>
+		<city>부산</city>
+		<tel>010-4444-4444</tel>
+	</member>
+	
+</memberList>
